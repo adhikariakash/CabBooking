@@ -1,0 +1,4 @@
+
+_python:S101"HRename class "cab" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ÁÔ¢œ
+cpython:S101,"LRename class "booking" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(í‹Ùƒ
+bpython:S101"KRename class "routes" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(úí½Ñ

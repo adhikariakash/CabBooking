@@ -1,0 +1,8 @@
+'db' : 'cab_booking'
+'username' : 'akash'
+'password' : 'Rashford@10'
+'subject' : 'Cron Scheduler'
+'server' : 'smtp.gmail.com'
+'sender' : 'cab9leaps@gmail.com'
+'sender_password' : 'team@9leaps'
+'receiver' : 'cab9leaps@gmail.com'

@@ -1,0 +1,6 @@
+
+qpython:S117"URename this local variable "Port" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘›ùÿÿÿÿ
+ppython:S117&"YRename this local variable "UserName" to match the regular expression ^[_a-z][a-z0-9_]*$.(°¢ÔÌ
+npython:S117 "WRename this local variable "Server" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ï¦ˆ
+tpython:S117'"]Rename this local variable "UserPassword" to match the regular expression ^[_a-z][a-z0-9_]*$.(äŸ±ñ
+jpython:S101"NRename class "scheduler" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(±™§Œùÿÿÿÿ

@@ -1,0 +1,8 @@
+
+mpython:S117"WRename this parameter "placeHolder" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Ò¿=
+}python:S1186#"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÔÌë¸üÿÿÿÿ8ôŞ·û©.
+rpython:S11921"TDefine a constant instead of duplicating this literal '2020-06-08 15:36:50' 4 times.(Òê§c8 •™ª.
+qpython:S117?"SRename this parameter "newUser" to match the regular expression ^[_a-z][a-z0-9_]*$.(–§8öŠ—ô©.
+qpython:S117D"SRename this parameter "newUser" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯áî®8úº ô©.
+=python:S125Q"Remove this commented out code.(À²ö¹8±÷ø˜ª.
+npython:S117 "WRename this parameter "placeHolder" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãº¸

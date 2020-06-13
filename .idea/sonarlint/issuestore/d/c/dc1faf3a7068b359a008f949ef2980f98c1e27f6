@@ -1,0 +1,8 @@
+
+opython:S1192Á"ODefine a constant instead of duplicating this literal 'Destination ; ' 3 times.(”ªµÖ8È¼òò©.
+ypython:S117"VRename this local variable "empId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼¥ßÎøÿÿÿÿ8È¼òò©.
+kpython:S1192Â"KDefine a constant instead of duplicating this literal 'Start Time' 3 times.(ñ”® 8È¼òò©.
+npython:S1192¿"NDefine a constant instead of duplicating this literal 'Cab_Number : ' 3 times.(ùÊÌ¦8È¼òò©.
+jpython:S1192À"JDefine a constant instead of duplicating this literal 'Source : ' 3 times.(ÙãŞØ8È¼òò©.
+kpython:S100"NRename method "newUser" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¸äĞ8È¼òò©.
+tpython:S11928"UDefine a constant instead of duplicating this literal "Error with list : {}" 3 times.(›ù¡ƒ8È¼òò©.
